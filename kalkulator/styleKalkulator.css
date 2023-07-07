@@ -1,0 +1,259 @@
+.kalkulator {
+    width: 450px;
+    height: 600px;
+    position: relative;
+    left: 40%;
+    top: 150px;
+    background-color: antiquewhite;
+    border-radius: 30px;
+}
+
+.pole {
+    width: 350px;
+    height: 80px;
+    position: absolute;
+    margin-bottom: 20px;
+    top: 30px;
+    left: 40px;
+    font-size: 50px;
+}
+
+.ac {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 145px;
+    font-size: xx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+.plus {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.minus {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.ravno {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.umn {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.del {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.odin {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.dva {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.tri {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.chet {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.pat {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.ches {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.sem{
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.vos{
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.dev {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
+.nol {
+    height: 90px;
+    width: 90px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+    left: 10px;
+    top: 150px;
+    font-size: xxx-large;
+    background-color: rgb(191, 132, 246);
+    border-radius: 7px;
+    border-color: rgb(191, 132, 246);
+    color: blueviolet;
+}
+
